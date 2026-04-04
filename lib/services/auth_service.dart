@@ -16,7 +16,6 @@ class AuthService {
 
     if (response.statusCode == 200) {
       final data = jsonDecode(response.body);
-      // Save the JWT token returned by your Spring Boot app
       await _storage.write(key: 'jwt_token', value: data['token']);
       return true;
     } else {
