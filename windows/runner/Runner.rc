@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.dating" "\0"
-            VALUE "FileDescription", "perosnel" "\0"
+            VALUE "FileDescription", "dating_app" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "perosnel" "\0"
+            VALUE "InternalName", "dating_app" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2026 com.dating. All rights reserved." "\0"
-            VALUE "OriginalFilename", "perosnel.exe" "\0"
-            VALUE "ProductName", "perosnel" "\0"
+            VALUE "OriginalFilename", "dating_app.exe" "\0"
+            VALUE "ProductName", "dating_app" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END
