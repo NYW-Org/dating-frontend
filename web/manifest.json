@@ -1,6 +1,6 @@
 {
-    "name": "perosnel",
-    "short_name": "perosnel",
+    "name": "dating_app",
+    "short_name": "dating_app",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",

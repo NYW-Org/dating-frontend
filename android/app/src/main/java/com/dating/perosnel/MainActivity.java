@@ -1,4 +1,4 @@
-package com.dating.perosnel;
+package com.dating.dating_app;
 
 import io.flutter.embedding.android.FlutterActivity;
 
